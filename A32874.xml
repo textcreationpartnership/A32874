@@ -1,0 +1,649 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Choyce poems being songs, sonnets, satyrs and elegies / by the wits of both universities.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32874</idno>
+            <idno type="STC">Wing C3918</idno>
+            <idno type="STC">ESTC R29960</idno>
+            <idno type="EEBO-CITATION">11228534</idno>
+            <idno type="OCLC">ocm 11228534</idno>
+            <idno type="VID">46940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46940)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1457:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Choyce poems being songs, sonnets, satyrs and elegies / by the wits of both universities.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46940:1"/>
+            <p>CHOYCE POEMS, BEING SONGS, SONNETS, SATYRS and ELEGIES.</p>
+            <p>By the Wits of both UNIVERSITIES.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome</hi> at the <hi>Gun</hi> in <hi>Ivy-lane.</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46940:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:46940:2"/>
+            <div type="poem">
+               <head>SONG.</head>
+               <lg>
+                  <l>THree ſtrange humours make me laugh,</l>
+                  <l>The Married man that's froward,</l>
+                  <l>The Miſer thinks hee's never ſafe,</l>
+                  <l>And the Temperate man's untoward;</l>
+                  <l>No friendſhip theſe, nor honour have,</l>
+                  <l>Strict Dyet, Wealth, and Wives enſlave,</l>
+                  <l>And make poor man a Coward.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Sancta Cruce</hi> may thank the Grape,</l>
+                  <l>And not their ſolemn Maſſes,</l>
+                  <l>'Twas Wine that made their General ſcape,</l>
+                  <l>Though he loſt his Gally-aſſes;</l>
+                  <l>
+                     <hi>Blake</hi> for grief expir'd his laſt,</l>
+                  <l>That having fought, he could not taſt</l>
+                  <l>Canary, in full Glaſſes.</l>
+               </lg>
+               <lg>
+                  <l>On the <hi>Ruſſians</hi> caſt your Eye,</l>
+                  <l>
+                     <hi>Coſſack's, Poles,</hi> and <hi>Tartars,</hi>
+                  </l>
+                  <l>How like Sheep they live and dye</l>
+                  <l>In their water Winter Quarters,</l>
+                  <l>Whereas the <hi>Swede,</hi> that takes a Drench</l>
+                  <l>Of Brande-wine, in Field or Trench,</l>
+                  <l>Expires as bold as Martyrs.</l>
+               </lg>
+               <pb n="2" facs="tcp:46940:3"/>
+               <lg>
+                  <l>
+                     <hi>Chocolet</hi>'s an arrant Cheat,</l>
+                  <l>Cantharides, and Eringo,</l>
+                  <l>Nothing gives dull ſpirits heat</l>
+                  <l>Like a doſe of Wine or Stingo,
+<note place="margin">Strong Che<g ref="char:EOLhyphen"/>ſhire Ale.</note>
+                  </l>
+                  <l>Which if <hi>Venables</hi> had ſipt,</l>
+                  <l>He like Lightning would have skipp'd,</l>
+                  <l>And ranſack'd St. <hi>Domingo.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Ask <hi>Jack Moſton,</hi> and <hi>Will. Hooks,</hi>
+                  </l>
+                  <l>How their Comrade turn'd Hectar,</l>
+                  <l>They'l affirm his blood and looks</l>
+                  <l>Both took fire from boules of Nector,</l>
+                  <l>That in time inflam'd the Realm,</l>
+                  <l>'Twas drinking plac'd him at the Helm,</l>
+                  <l>And made him <hi>Lord Protector.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>A Ballad againſt the Opera.</head>
+               <lg>
+                  <l>NOw Heaven preſerve our Realm,</l>
+                  <l>And him that ſits at th' Helm.</l>
+                  <l>I will tell you of a new Story</l>
+                  <l>Of Sir <hi>William</hi> and his Apes,</l>
+                  <l>With full many merry Japes,</l>
+                  <l>Much after the rate of <hi>John Dorie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>This ſight is to be ſeen</l>
+                  <l>Near the Street that's called Queen,</l>
+                  <l>And the People have call'd it the Opera.</l>
+                  <pb n="3" facs="tcp:46940:3"/>
+                  <l>But the Devil take my Wife,</l>
+                  <l>If all dayes of my life</l>
+                  <l>did ever ſee ſuch a Fopperie.</l>
+               </lg>
+               <lg>
+                  <l>Where firſt one begins</l>
+                  <l>With a trip and a cring,</l>
+                  <l>And a face ſet in ſtarch to accoſt 'um,</l>
+                  <l>I, and with a Speech to boot</l>
+                  <l>That had neither head nor foot,</l>
+                  <l>Might have ſerv'd for a <hi>Charterhouſe Roſtrum.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Oh, he look'd ſo like a Jew,</l>
+                  <l>Would have made a man ſpew,</l>
+                  <l>When he told 'em here was this, here was that,</l>
+                  <l>Juſt like him that ſhews the Tombs,</l>
+                  <l>For when the Sum Total comes,</l>
+                  <l>Tis two houres of I know not what.</l>
+               </lg>
+               <lg>
+                  <l>Neither muſt I here forget</l>
+                  <l>The Muſick there, how it was ſet,</l>
+                  <l>Diſe two Ayers and an half and a Jove,</l>
+                  <l>All the reſt was ſuch a Gig,</l>
+                  <l>Like the ſqueaking of a Pig,</l>
+                  <l>Or Cats when they'r making their love.</l>
+               </lg>
+               <lg>
+                  <l>The next thing was the Scene,</l>
+                  <l>And that as it was layne,</l>
+                  <l>But no man knows where in <hi>Peru,</hi>
+                  </l>
+                  <l>With a ſtory for the nones</l>
+                  <pb n="4" facs="tcp:46940:4"/>
+                  <l>Of Raw head and Bloody bones,</l>
+                  <l>But the Devil a word that was true.</l>
+               </lg>
+               <lg>
+                  <l>There might you have ſeen an Ape</l>
+                  <l>With his follow for to gape,</l>
+                  <l>Now dancing and turning ore and ore,</l>
+                  <l>What cannot Poets do</l>
+                  <l>They can find out in <hi>Peru,</hi>
+                  </l>
+                  <l>Things no man ever ſaw before.</l>
+               </lg>
+               <lg>
+                  <l>Then preſently the <hi>Spaniard</hi>
+                  </l>
+                  <l>Strouts with his Whineyard,</l>
+                  <l>Now Heaven of thy mercy how grim,</l>
+                  <l>Who'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d have thought that Chriſtian men</l>
+                  <l>Would have eat up Children,</l>
+                  <l>Had he not ſeen 'em do it limb by limb.</l>
+               </lg>
+               <lg>
+                  <l>Oh greater cruelty yet,</l>
+                  <l>Like a Pig upon a ſpit,</l>
+                  <l>Here lies one, there another boyl'd to a Jellie;</l>
+                  <l>Juſt ſo the people ſtare</l>
+                  <l>At an Oxe in the Fair,</l>
+                  <l>Roſted whole with a Pudding in's Bellie.</l>
+               </lg>
+               <lg>
+                  <l>I durſt have laid my head</l>
+                  <l>That the King there had been dead,</l>
+                  <l>When I ſaw how they baſted and carved him;</l>
+                  <l>Had he not come up again</l>
+                  <l>Upon the Stage, there to complain</l>
+                  <pb n="5" facs="tcp:46940:4"/>
+                  <l>How ſcurvily the Rogues had ſerved him.</l>
+               </lg>
+               <lg>
+                  <l>A little further in</l>
+                  <l>Hung a third by the Chin,</l>
+                  <l>And a forth cut out all in Quarters;</l>
+                  <l>Oh that <hi>Fox</hi> had now been living,</l>
+                  <l>They had been ſure of Heaven,</l>
+                  <l>Or at the leaſt been ſome of his Martyrs.</l>
+               </lg>
+               <lg>
+                  <l>But which was ſtrange again,</l>
+                  <l>The Indians that they had ſlain,</l>
+                  <l>Came dancing all in a Troop,</l>
+                  <l>But oh give me the laſt,</l>
+                  <l>For as often as he paſt,</l>
+                  <l>He ſtill tumbled like a Dog in a Hoop.</l>
+               </lg>
+               <lg>
+                  <l>And now my Signior Strugge</l>
+                  <l>In good faith you may go Jogge,</l>
+                  <l>For Sir <hi>Will.</hi> will have ſomething to brag on</l>
+                  <l>Oh the <hi>Engliſh</hi> Boyes are come</l>
+                  <l>With their Fife and their Drum,</l>
+                  <l>And ſtill the Knight muſt Conquer the Dragon.</l>
+               </lg>
+               <lg>
+                  <l>And ſo now my ſtory is done,</l>
+                  <l>And I'le end as I begun,</l>
+                  <l>With a word, and I care not who know it,</l>
+                  <l>Heaven keep us great and ſmall,</l>
+                  <l>And bleſſe us ſome and all,</l>
+                  <l>From every ſuch a pittifull Poet.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="6" facs="tcp:46940:5"/>
+               <head>The dying Lover.</head>
+               <lg>
+                  <l>SOme powers regard me, or my heart will burn</l>
+                  <l>Till it convert my beſome to an urn,</l>
+                  <l>I call not you Phyſicians: how you ſpred</l>
+                  <l>You fatall Curtains of a ſick mans bed;</l>
+                  <l>Hang from about me; herbs nor minerals can</l>
+                  <l>Cure the Conſumption of a Love-ſick man,</l>
+                  <l>Not hills of Snow, nor Cakes of Ice the flood</l>
+                  <l>Bears down, can make a Julip for my blood.</l>
+                  <l>You climbing Waves, if happily at this hour</l>
+                  <l>There be ſome new <hi>Leander</hi> in your power,</l>
+                  <l>O let his voyage calmer fortune try,</l>
+                  <l>'Twere pitty the belov'd again ſhould dye,</l>
+                  <l>But you may well my ſcorn'd breaſt over flow,</l>
+                  <l>Yet would my heat make your cold billows glow.</l>
+                  <l>And you rude winds, troublers of both Seas and Skies,</l>
+                  <l>Before whoſe wrath the white fingd veſſel flyes,</l>
+                  <l>Ceaſe perſecuting wretches on the main,</l>
+                  <l>And cool me with a ſtorm, but 'twere in vain,</l>
+                  <l>I ſprinkle tears, and with my ſighs adde breath,</l>
+                  <l>To blow flames only to be quench't by death.</l>
+                  <l>See where he comes, how pale, how far unlike</l>
+                  <l>Her ſhape that ſent him to me, would'ſt thou ſtrike?</l>
+                  <l>'Tis done already, look upon my heart,</l>
+                  <l>Alas, thou know'ſt not, when thou threw'ſt that dart.</l>
+                  <l>Shee mocks both thee and love, not as you will;</l>
+                  <pb n="7" facs="tcp:46940:5"/>
+                  <l>As ſhe doth guide your hands, you ſave or kill.</l>
+                  <l>Perhaps you reigned in times paſt, but in mine,</l>
+                  <l>Her ſmiles are loves darts, &amp; her thoughts are thine</l>
+                  <l>I have ſeen her mix a ſad look with a ſweet,</l>
+                  <l>Then life and death, all joys, all torments meet</l>
+                  <l>Like twilight, that her lover could not ſay,</l>
+                  <l>Whether his fear brought light, or hope ſaw day,</l>
+                  <l>Which I muſt ſee no more, 'tis her decree,</l>
+                  <l>That adds one Siſter to the other three.</l>
+                  <l>Another to the grates if you enquire</l>
+                  <l>What wonder this may be, pleaſe your deſire,</l>
+                  <l>It is a beauty, ſuch as might give breath,</l>
+                  <l>To ſenſleſſe Pictures, but to me 'tis death.</l>
+                  <l>Farewel ſweet Muſes, your freinds death deplore,</l>
+                  <l>Whom you were not <hi>Maedeas</hi> to reſtore.</l>
+                  <l>Love let me kiſſe thy hand, by which I fall;</l>
+                  <l>Yet thou haſt kill'd me with a Cordial.</l>
+                  <l>Death cry thee mercy, Loves command extends</l>
+                  <l>So far, I ſaw not thine, but wee'l meet friends.</l>
+                  <l>I feel thee in my marrow, thy ſhaft lurks</l>
+                  <l>With a cold poyſon tipt, now, now it works.</l>
+                  <l>What Ague's this, but now my breath did glow,</l>
+                  <l>
+                     <hi>Etna</hi> was not ſo fyery; now I grow</l>
+                  <l>More cold than are the Alps, I am like one</l>
+                  <l>Toſt from the torrid, to the frigid Zone.</l>
+                  <l>Winter's in my blood, my veins freeze ore.</l>
+                  <l>It Snows upon my heart, I can no more</l>
+                  <l>Move my contracted ſinews, if there be</l>
+                  <l>Of all that in their tears would bury me.</l>
+                  <pb n="8" facs="tcp:46940:6"/>
+                  <l>Some poor forſaken Virgin that did mean</l>
+                  <l>All faith, and found no juſtice, let her glean</l>
+                  <l>The ruines of my heart, the reſt convey</l>
+                  <l>To ſome dark grove, where the Turtle may</l>
+                  <l>Mourn out my Elegy, write upon my tomb,</l>
+                  <l>I had a fair Judge, but a cruel doom.</l>
+               </lg>
+            </div>
+            <div type="poems">
+               <div type="poem">
+                  <head>Friend.</head>
+                  <lg>
+                     <l>FOr guilded Pill, and Pill was not,</l>
+                     <l>But powder'd up i'th Gally Pot;</l>
+                     <l>For Purge of <hi>Hamechs</hi> rare Confection</l>
+                     <l>For ſtuffe, by way of an Injection;</l>
+                     <l>Which Maid miſtook for milk of Almond,</l>
+                     <l>And ſuck'd an hearty draught, till qualm on</l>
+                     <l>Stomack came, and neighbours call'd in,</l>
+                     <l>She ſhit and ſpewd like Uncle <hi>Yalden;</hi>
+                     </l>
+                     <l>For inſtrument the Schoolmen call,</l>
+                     <l>By name of Mathematical;</l>
+                     <l>Others a Syringe, Squirt, or Engine,</l>
+                     <l>Which <hi>Robin Scudamore</hi> ſwears do ſend in</l>
+                     <l>Juice, with that force at Pintles ſnouts</l>
+                     <l>As if at Crown o'th head 'twould out</l>
+                     <l>For viſits late, and viſits early</l>
+                     <l>I'th mind I'me in I love thee dearly,</l>
+                     <l>And thank thee too. — But hark you wight!</l>
+                     <l>This does not ſet my Tail upright;</l>
+                     <l>I'me plaguy looſe i'th ſocket ſtill,</l>
+                     <pb n="9" facs="tcp:46940:6"/>
+                     <l>Maugre thy Potion, and thy Pill,</l>
+                     <l>And reign ſo ſlack (for all my cunning)</l>
+                     <l>Will never fadge with Nag that's running.</l>
+                     <l>The Spring that ſhould uphold my Cock,</l>
+                     <l>Is ſhrewdly weakened, and my dock</l>
+                     <l>Is like th' abominable Rump,</l>
+                     <l>A rude and indigeſted lump;</l>
+                     <l>Gun-ſcowrers two I have beſeech't,</l>
+                     <l>By their kind care to be new breech't.</l>
+                     <l>The Baggages o'th Town (Pox rot um)</l>
+                     <l>Say, that for Arſe, to get new botton</l>
+                     <l>I muſt to <hi>Rumford</hi> ride (ud's nigs)</l>
+                     <l>I've rid my ſelf quite off my legs.</l>
+                     <l>
+                        <hi>Jack Falſtnffe</hi> vildly did abate,</l>
+                     <l>But never ſurely, at the rate</l>
+                     <l>That I have done, ſince action laſt</l>
+                     <l>I'me no mans length of life i'th waſte.</l>
+                     <l>My leg is not ſo big by th' half,</l>
+                     <l>Im'e but ill <hi>Eſſex't</hi> in the Calf</l>
+                     <l>Only one member 'cleped privie</l>
+                     <l>That thrives upon it: as I live I</l>
+                     <l>Could not but ſmile, (though indiſpos'd)</l>
+                     <l>To ſee the youth ſo bottle-nos'd.</l>
+                     <l>I need not like the lad throws twelve</l>
+                     <l>At tick-tack cry to Pintle, ſwell —</l>
+                     <l>As Parſon erſt; ſo great's my pain</l>
+                     <l>Grant mine a yard, I'le ſwear 'tis main</l>
+                     <l>With Swathe, and clout to ſee me dreſſe it;</l>
+                     <l>A wonderous hopeful thing; God bleſſe it,</l>
+                     <pb n="10" facs="tcp:46940:7"/>
+                     <l>In lap then having couch't my Beagle,</l>
+                     <l>He looks like Babe that's under Eagle,</l>
+                     <l>Where let him lurk, and reſt in quiet,</l>
+                     <l>Till thou ſend'ſt drink, and God ſends diet.</l>
+                     <l>Friend, now I've told thee how 'tis with me,</l>
+                     <l>If thou haſt any Goodneſſe i' thee</l>
+                     <l>Call on me as thou goeſt to 'th Devil,</l>
+                     <l>Or <hi>Major Mundens,</hi> who's ſo Civil</l>
+                     <l>To give the Ale, and bate the Smoak,</l>
+                     <l>Though firſt heed rather have me choak,</l>
+                     <l>Well, to be brief, I long to ſee Thee,</l>
+                     <l>Till when (Dear <hi>Val.</hi>) Gods peace be with thee.</l>
+                  </lg>
+                  <closer>
+                     <date>
+                        <hi>March</hi> 27. 1660.</date>
+                  </closer>
+               </div>
+               <div type="poem">
+                  <head>The Anſwer.</head>
+                  <lg>
+                     <l>THanks to thy care Dear <hi>Valentine,</hi>
+                     </l>
+                     <l>Th'art working Cures all in — time.</l>
+                     <l>I left out good, 'cauſe as times go,</l>
+                     <l>Tis ten to one we find it ſo.</l>
+                     <l>I'me ſafe, but not as fiſh ſo ſound,</l>
+                     <l>Whom we term ſo, becauſe not drown'd</l>
+                     <l>I'th Deluge when all went to wrack</l>
+                     <l>But <hi>Noah,</hi> and like ſhirt to back,</l>
+                     <l>Eight that ſtuck cloſe, and gave no word,</l>
+                     <l>For fear of heaving over board.</l>
+                     <l>No (Friend) I am not yet like <hi>Roach,</hi>
+                     </l>
+                     <l>Or <hi>Bell,</hi> but dread a jumbling Coach,</l>
+                     <l>And walk i'th ſtreets, the ſtones upon,</l>
+                     <l>As with a ſuit of Wainſcot on.</l>
+                     <l>Sure my diſeaſe (what are <hi>Dick</hi> ſayes)</l>
+                     <l>Will teach a man to look to's wayes.</l>
+                     <pb n="11" facs="tcp:46940:7"/>
+                     <l>I walk upright, and tenderly,</l>
+                     <l>As if I trode on Conſcience: why</l>
+                     <l>My foot ſlipt once, (howere it came)</l>
+                     <l>And put whole body out of frame.</l>
+                     <l>My arms were diſarm'd, and my legs</l>
+                     <l>Mov'd as if joynts had wanted pegs.</l>
+                     <l>Sure this will warning be or none,</l>
+                     <l>How I ſtrike foot againſt a ſtone;</l>
+                     <l>Though I'me not guilty of ſuch tricks,</l>
+                     <l>'Twere better kick againſt the pricks.</l>
+                     <l>But hark you <hi>(Val.)</hi> worſe news than this!</l>
+                     <l>A friend refuſed to ſtay my Piſs-</l>
+                     <l>Ing while, indeed he found me tardy.</l>
+                     <l>Once (as it hap't) before, for pardy,</l>
+                     <l>I was faint to unmuffle <hi>Pego,</hi>
+                     </l>
+                     <l>Who looked, liked, <hi>Ego non ſum ego;</hi>
+                     </l>
+                     <l>Then with the prepuce make a Spout,</l>
+                     <l>For carrying of it clearly out;</l>
+                     <l>Or elſe howere the matter lurks,</l>
+                     <l>'T had run like <hi>Windſor</hi> water works:</l>
+                     <l>For holes it like a Skimmer proves,</l>
+                     <l>Or Orange that was ſtuff't with Cloves.</l>
+                     <l>Y' have ſeen a Garden watring Pot</l>
+                     <l>Or Cullender, e'ne juſt like that.</l>
+                     <l>Well, faces made, and making end</l>
+                     <l>Of making faces to my friend</l>
+                     <l>I hy'd, who wiſh'd me all be-piſt,</l>
+                     <l>Swore he'd read <hi>Johnſons</hi> Alchymiſt</l>
+                     <l>In half that time, that I was leaking,</l>
+                     <l>'Twas twice as long, as I've been ſpeaking.</l>
+                     <l>I muſt confeſſe (who ere appoints)</l>
+                     <l>In leſſe time, I'de truſſe twenty points.</l>
+                     <pb n="12" facs="tcp:46940:8"/>
+                     <l>I've ſeen with ſwigging what, ore-ſated</l>
+                     <l>A Barrow Pig as tedeous as it,</l>
+                     <l>But <hi>(Val.)</hi> when amongſt the Blades I come,</l>
+                     <l>After the word-Rogue, ſhow a Room.</l>
+                     <l>How do the Youngſters ſtare doſt think?</l>
+                     <l>When I cry faith, I dare not drink</l>
+                     <l>Wine, and ſpeak low as Country Laſſe,</l>
+                     <l>Ask't by the official how 'twas</l>
+                     <l>She got the Baſtard lately whelp't,</l>
+                     <l>Whiſpers-forſooth, I could not help't.</l>
+                     <l>Then plead I Phyſick, Drink, and Diet,</l>
+                     <l>Which for a while preſerves me quiet,</l>
+                     <l>Till ſome ſtern Sr. unknown before,</l>
+                     <l>When Diſh is clap't at wrong mans dore,</l>
+                     <l>Cryes, give him drink, what is't he ayles?</l>
+                     <l>When all i'th Room produce their Tails.</l>
+                     <l>And Friend as I may tell to you</l>
+                     <l>Compar'd to them on ſtrict review.</l>
+                     <l>I find I'me pretty well to paſſe,</l>
+                     <l>So lay my violent hands on glaſſe.</l>
+                     <l>And think on Moyle (as is my uſe)</l>
+                     <l>Then drink and glad of the excuſe.</l>
+                     <l>Thus ſtrive I to be blyth and frolick,</l>
+                     <l>As <hi>Virgil</hi> when he wrought <hi>Bucolick.</hi>
+                     </l>
+                     <l>But my <hi>Maecenas</hi> wondrous Moyle</l>
+                     <l>Is ſick, and then I me not worth while.</l>
+                     <l>I'me a dead thing without, know 'tis he</l>
+                     <l>Gives life and vigour to my Muſe and me.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>This Iſend thee hap what will,</hi>
+                     </l>
+                     <l>
+                        <hi>On the eleventh day of</hi> April.</l>
+                     <l>
+                        <hi>Nam'd from wodden (morning dirty)</hi>
+                     </l>
+                     <l>
+                        <hi>Sixteen hundred and twice thirty.</hi>
+                     </l>
+                     <l>
+                        <hi>Fare thee well, however fare I.</hi>
+                     </l>
+                     <l>
+                        <hi>Hyſtoron Proteron bold</hi> Hatry.</l>
+                     <l>
+                        <hi>In affection ever fervant,</hi>
+                     </l>
+                     <l>
+                        <hi>Twice &amp; once thine humble Servant.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <div type="poem">
+               <pb n="13" facs="tcp:46940:8"/>
+               <head>
+                  <hi>Ode. Sitting and drinking in a Chair made out of the re<g ref="char:EOLhyphen"/>liques of Sr.</hi> Francis Drakes Ship.</head>
+               <lg>
+                  <head>1.</head>
+                  <l>CHear up my Mates! the wind doth fairly blow,</l>
+                  <l>Clap on more Sails, and never ſpare,</l>
+                  <l>Farewel all Land! for now we are</l>
+                  <l>In the wide Sea of drink, and merrily we go.</l>
+                  <l>Bleſſe me! 'tis hot, another Bowl of Wine,</l>
+                  <l>And we ſhall cut the burning Line;</l>
+                  <l>Hey Boys! ſhe ſends it away, and by my head I know</l>
+                  <l>We round the world are ſailing now.</l>
+                  <l>What dull men are thoſe who tarry at home,</l>
+                  <l>When abroad they might wantonly roam?</l>
+                  <l>And gain ſuch experience; and ſpie too</l>
+                  <l>Such Countries and wonders as I do?</l>
+                  <l>But prithee good Pilot take heed what you do,</l>
+                  <l>And fail not to touch at <hi>Peru,</hi>
+                  </l>
+                  <l>With Gold there the Veſſel we'll ſtore,</l>
+                  <l>And never, and never be poor,</l>
+                  <l>And never be poor any more.</l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>What do I mean? What thoughts do me miſguide,</l>
+                  <l>As well upon a ſtaffe may Witches ride</l>
+                  <l>Their fancied journeys in the air,</l>
+                  <l>As I ſayl round the world in a Chair.</l>
+                  <l>'Tis true, but yet this Chair which here you ſee,</l>
+                  <l>For all its Quiet now and gravity,</l>
+                  <l>Has wandred and has travell'd more</l>
+                  <l>Then ever Beaſt, or Fiſh, or Bird, or ever Tree be<g ref="char:EOLhyphen"/>fore</l>
+                  <l>In every air, in every Sea 'tas been,</l>
+                  <l>'Tas compaſs't all the earth, and all the heaven 'tas ſeen.</l>
+                  <pb n="16" facs="tcp:46940:9"/>
+                  <l>Let not the Popes it ſelf with this compare,</l>
+                  <l>This is the only univerſal Chair.</l>
+               </lg>
+               <lg>
+                  <head>3.</head>
+                  <l>The Pious wandrers Fleet ſav'd from the flame</l>
+                  <l>(Which ſtill the reliques did of Troy purſue,</l>
+                  <l>And took them for its due)</l>
+                  <l>A Squadron of immortal Nymphs became,</l>
+                  <l>Still with their Arms they row'd about the Seas,</l>
+                  <l>And ſtill made new, and greater Voyages:</l>
+                  <l>Nor has the firſt Poetique Ship of <hi>Greece,</hi>
+                  </l>
+                  <l>Though now a star, ſhe ſo triumphant ſhow,</l>
+                  <l>And guides her ſailing Succeſſors below,</l>
+                  <l>(Bright as her antient fraight the ſhining Fleece)</l>
+                  <l>Yet to this day a quiet Harbour found,</l>
+                  <l>The Tide of Heaven ſtill carries her around;</l>
+                  <l>Only <hi>Drakes</hi> ſacred Veſſel (which before</l>
+                  <l>Had done, and had ſeen more</l>
+                  <l>Then thoſe have done or ſeen,</l>
+                  <l>Even ſince they Goddeſſes, and this a Star has been,)</l>
+                  <l>As a reward for all her labours paſt,</l>
+                  <l>Is made the ſeat of reſt at laſt.</l>
+                  <l>Let the caſe now quite altered be;</l>
+                  <l>And as thou went'ſt abroad the world to ſee,</l>
+                  <l>Let the world now come to ſee thee.</l>
+               </lg>
+               <lg>
+                  <head>4.</head>
+                  <l>The world will do't for curioſity,</l>
+                  <l>Does no leſſe then Devotion, Pilgrims make.</l>
+                  <l>And I my ſelf who now love quiet too,</l>
+                  <l>As much almoſt as any Chair can do,</l>
+                  <l>Would yet a Journey take.</l>
+                  <l>An old Wheel of that Charriot to ſee;</l>
+                  <l>Which <hi>Phaeton</hi> ſo raſhly brake.</l>
+                  <l>Yet what could that ſay more, then theſe remains of <hi>Drake?</hi>
+                  </l>
+                  <l>Great relique! thou too in this Port of eaſe</l>
+                  <l>Haſt ſtill one way of making Voyages.</l>
+                  <l>The breath of Fame, like an auſpicuous gale</l>
+                  <l>(The great Trade wind which ner'e does fail)</l>
+                  <l>Still with full trimme, and ſwelling Sail,</l>
+                  <l>Shall drive thee round the world, and thou ſhalt run</l>
+                  <l>As long around it as the Sun.</l>
+                  <l>The ſtraights of time too narrow are for thee,</l>
+                  <l>Lanch forth into an undiſcovered Sea.</l>
+                  <l>And ſteer the endleſſe courſe of vaſt eternity.</l>
+                  <l>Take for thy Sail this verſe, &amp; for thy Pilot me.</l>
+               </lg>
+               <pb facs="tcp:46940:10"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
